@@ -1,5 +1,5 @@
 # Bankruptcy-prediction
-In this repo, there lies a rstudio file of code from a school project me and a classmate worked on fall 2020 in a Data Science course,
+In this repo, there lies an rstudio file of code from a school project me and a classmate worked on fall 2020 in a Data Science course,
 where we attempted to predict bankruptices of Norwegian companies using variables from the Altman Z-score model or variables from the SEBRA model used by the Norwegian central bank to predict bankruptices. 
 The goal of this project is to try to implement a similar but better, more thorough piece of work written in Python so that i get to learn doing data science in python,
 which is the programming language i've used the most. 
